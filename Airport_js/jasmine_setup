@@ -1,0 +1,4 @@
+cp -r ~/Downloads/jasmine-standalone-3.5.0.zip 
+unzip jasmine-standalone-3.5.0.zip
+
+touch src/airport.js spec/airportSpec.js
